@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/jiri/projects/moodle/blocks/email_lists'
+let g:netrw_dirhist_2='/home/jiri/projects/NeuralStyle'
+let g:netrw_dirhist_3='/home/jiri/wordpress'
+let g:netrw_dirhist_4='/home/jiri/projects/Resume'
+let g:netrw_dirhist_5='/home/jiri/wordpress'
+let g:netrw_dirhist_6='/var/www/html/wp-content/plugins/ultimate-member/templates/profile'
+let g:netrw_dirhist_7='/home/jiri/cs/cs160/Percolation'
+let g:netrw_dirhist_8='/var/www/html/wp-content/plugins/wp-fullcalendar'
